@@ -1,0 +1,1 @@
+Setting up a basic website through the Odin Project about recipes.
